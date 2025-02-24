@@ -2,6 +2,19 @@
 
 <br>
 
+# Research conducted on the capabilities of the **Python** programming language.
+
+#About
+<p>I created the classic arcade game called Space Invader.</p>
+ <p>It is not a copy of the original nor does it include all the features.</p>
+
+# Exploratory
+<p>It serves as a study, learning experience, and the use of development environments such as VSCode and Cursor.</p>
+
+# More
+<p>The code is available here.</p> <p>There are several .PNG and .MP3 files included in the package.</p>
+
+_________________________________________________________________________________________________________<br>
 # Pesquisa feita sobre a capacidade da linguagem <b>Python. 
 # Sobre
 <p>Criei o antigo jogo de fliperama chamado Space Invader. </p>
@@ -16,13 +29,3 @@
 <br>
 
 # Research on the capabilities of the <b>Python</b> language.
-
-#About
-<p>I created the classic arcade game called Space Invader.</p>
- <p>It is not a copy of the original nor does it include all the features.</p>
-
-# Exploratory
-<p>It serves as a study, learning experience, and the use of development environments such as VSCode and Cursor.</p>
-
-#More
-<p>The code is available here.</p> <p>There are several .PNG and .MP3 files included in the package.</p>
