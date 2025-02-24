@@ -4,7 +4,7 @@
 
 # Research conducted on the capabilities of the **Python** programming language.
 
-#About
+# About
 <p>I created the classic arcade game called Space Invader.</p>
  <p>It is not a copy of the original nor does it include all the features.</p>
 
@@ -28,4 +28,3 @@ ________________________________________________________________________________
 <p>Existem diversos arquivos .PNG e .MP3 que fazem parte do pacote.</p>
 <br>
 
-# Research on the capabilities of the <b>Python</b> language.
